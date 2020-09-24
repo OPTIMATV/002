@@ -1,0 +1,555 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION EAST HD
+http://f.ok2.se:8000/victor1/victor123/8253
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION WEST (LA)
+http://f.ok2.se:8000/victor1/victor123/413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVISION (CDN) - NEW
+http://f.ok2.se:8000/victor1/victor123/66070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION
+http://f.ok2.se:8000/victor1/victor123/414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION WEST
+http://f.ok2.se:8000/victor1/victor123/42673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *TELEMUNDO EAST
+http://f.ok2.se:8000/victor1/victor123/415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *TELEMUNDO WEST
+http://f.ok2.se:8000/victor1/victor123/416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC UNIVERSO HD
+http://f.ok2.se:8000/victor1/victor123/417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HITN (ES) - NEW
+http://f.ok2.se:8000/victor1/victor123/31461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEGA HD (NEW)
+http://f.ok2.se:8000/victor1/victor123/418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE LATINO (ES)
+http://f.ok2.se:8000/victor1/victor123/30862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMAX HD ES - NEW
+http://f.ok2.se:8000/victor1/victor123/419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO EAST HD (ES)
+http://f.ok2.se:8000/victor1/victor123/420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIMAS HD
+http://f.ok2.se:8000/victor1/victor123/425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLNOVELAS HD
+http://f.ok2.se:8000/victor1/victor123/427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PASIONES
+http://f.ok2.se:8000/victor1/victor123/426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZTECA
+http://f.ok2.se:8000/victor1/victor123/451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN (ES)
+http://f.ok2.se:8000/victor1/victor123/429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CENTRO AMERICA TV
+http://f.ok2.se:8000/victor1/victor123/444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HISTORY (ES)
+http://f.ok2.se:8000/victor1/victor123/431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY HD ES
+http://f.ok2.se:8000/victor1/victor123/430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE SONY (ES)
+http://f.ok2.se:8000/victor1/victor123/435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA 1 (REGGAETON)
+http://f.ok2.se:8000/victor1/victor123/6583
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA 2 (REGGAETON) (2017)
+http://f.ok2.se:8000/victor1/victor123/6584
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA 3 (REGGAETON) (VEVO)
+http://f.ok2.se:8000/victor1/victor123/6585
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA 4 (2017)
+http://f.ok2.se:8000/victor1/victor123/6586
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN DEPORTES HD (ES)
+http://f.ok2.se:8000/victor1/victor123/236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN DEPORTES HD (H264)
+http://f.ok2.se:8000/victor1/victor123/38491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN DEPORTES HD (H265) - NEW
+http://f.ok2.se:8000/victor1/victor123/65724
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN HD DEPORTES
+http://f.ok2.se:8000/victor1/victor123/8505
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION DEPORTES
+http://f.ok2.se:8000/victor1/victor123/423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *FOX DEPORTES HD (ES)
+http://f.ok2.se:8000/victor1/victor123/436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX DEPORTES (ES)
+http://f.ok2.se:8000/victor1/victor123/237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/victor1/victor123/39679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 2 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/victor1/victor123/39680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 3 HD (LATIN AMERICA) (ES)
+http://f.ok2.se:8000/victor1/victor123/39681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN DEPORTES HD (ES)
+http://f.ok2.se:8000/victor1/victor123/238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOL TV (ES)
+http://f.ok2.se:8000/victor1/victor123/235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOL TV (ES) - NEW
+http://f.ok2.se:8000/victor1/victor123/424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS 1 HD (SP)
+http://f.ok2.se:8000/victor1/victor123/64391
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS 2 HD (SP)
+http://f.ok2.se:8000/victor1/victor123/64390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS+ HD (SP)
+http://f.ok2.se:8000/victor1/victor123/64389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WIN SPORTS (COL)
+http://f.ok2.se:8000/victor1/victor123/15130
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEX-ADN 40" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26952
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEX-ADN 40" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26681
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEX-ADN 40" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1358
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png" group-title="MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1359
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="MEX-Antena 3" tvg-logo="https://1.bp.blogspot.com/-3eU7xslEFZk/Xm524xBc-gI/AAAAAAAABig/BnpS_TTJdvkN7ws9druV4X2ZqZmEtPN9wCLcBGAsYHQ/s200/28.png" group-title="MEXICO",Antena 3
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26951
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="MEX-Antena 3" tvg-logo="https://1.bp.blogspot.com/-3eU7xslEFZk/Xm524xBc-gI/AAAAAAAABig/BnpS_TTJdvkN7ws9druV4X2ZqZmEtPN9wCLcBGAsYHQ/s200/28.png" group-title="MEXICO",Antena 3
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26715
+
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="MEX-Aym Sports" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="MEXICO",Aym Sports
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26700
+
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="MEX-Az Cinema" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO",Az Cinema
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26963
+
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="MEX-Az Clic" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO",Az Clic
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26955
+
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="MEX-Az Clic" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO",Az Clic
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26691
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Az Corazón" tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png" group-title="MEXICO",Az Corazón
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26687
+
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="MEX-Az Mundo" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO",Az Mundo
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26982
+
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="MEX-Az Mundo" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO",Az Mundo
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26703
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MEX-Azteca 1" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca 1
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1329
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 1" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca 1
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1881
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26947
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1330
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26680
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1882
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Cinema" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO",Azteca Cinema
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1336
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Cinema" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO",Azteca Cinema
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1337
+
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="MEX-Azteca Clic" tvg-logo="https://1.bp.blogspot.com/-wEdnDWpnH8s/Xm50SQKAvmI/AAAAAAAABh0/D5VhjaejxVE9xUGTHVw67W54Q7B8OL5VwCLcBGAsYHQ/s200/25.png" group-title="MEXICO",Azteca Clic
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1335
+
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MEX-Azteca Corazon" tvg-logo="https://1.bp.blogspot.com/-zz1_OIGBpiI/Xm7S6119EdI/AAAAAAAABns/OelXG9baVowgd8o_32iLCp4fCFfVnoIowCLcBGAsYHQ/s200/48.png" group-title="MEXICO",Azteca Corazon
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1332
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Mundo" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO",Azteca Mundo
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1333
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Mundo" tvg-logo="https://1.bp.blogspot.com/-aSfRTznx_v8/Xm5mz-FGAgI/AAAAAAAABdU/PnxFmzGDX9sOAjXi_hKnUfL4LNf3jRpYwCLcBGAsYHQ/s200/3.png" group-title="MEXICO",Azteca Mundo
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1334
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MEX-Azteca Uno" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca Uno
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26948
+
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="MEX-Bloomberg" tvg-logo="https://1.bp.blogspot.com/-03CaQgAcjpc/Xm5ywyaHEwI/AAAAAAAABhU/fe1Lwkx-om0RJZnr6qS0YIfL2sg7fzgQgCLcBGAsYHQ/s200/23.png" group-title="MEXICO",Bloomberg
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26957
+
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="MEX-Boomerang" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="MEXICO",Boomerang
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26949
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 26" tvg-logo="https://1.bp.blogspot.com/-KSkiCyS_jpo/Xm7ep11FsRI/AAAAAAAABpk/Rr8OZugY3EMbKOT6fPFoI6sr7eCfwwRLACLcBGAsYHQ/s200/53.png" group-title="MEXICO",Canal 26
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1339
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 26" tvg-logo="https://1.bp.blogspot.com/-KSkiCyS_jpo/Xm7ep11FsRI/AAAAAAAABpk/Rr8OZugY3EMbKOT6fPFoI6sr7eCfwwRLACLcBGAsYHQ/s200/53.png" group-title="MEXICO",Canal 26
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1340
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26973
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26678
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1883
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1341
+
+#EXTINF:-1 tvg-id="CanalJudicial.mx" tvg-name="MEX-Canal Judicial" tvg-logo="https://1.bp.blogspot.com/-ZqcizbhKf90/Xm5399zrBEI/AAAAAAAABi4/aQemC11t_NghTrOGWgrRCEYvNc85RN4TACLcBGAsYHQ/s200/29.png" group-title="MEXICO",Canal Judicial
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26950
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal Judicial" tvg-logo="https://1.bp.blogspot.com/-ZqcizbhKf90/Xm5399zrBEI/AAAAAAAABi4/aQemC11t_NghTrOGWgrRCEYvNc85RN4TACLcBGAsYHQ/s200/29.png" group-title="MEXICO",Canal Judicial
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1342
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MEX-Canal Once" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO",Canal Once
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26720
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal Once" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO",Canal Once
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1343
+
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="MEX-Comedy Central" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="MEXICO",Comedy Central
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26719
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-DW" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="MEXICO",DW
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26732
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-El Financiero" tvg-logo="https://1.bp.blogspot.com/-fPpj9p5VRB0/Xm5wYpCGrcI/AAAAAAAABgs/bjFPTDBI_y8RKSx0h507QlkPLVNDnWUswCLcBGAsYHQ/s200/21.png" group-title="MEXICO",El Financiero
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26961
+
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="MEX-El Financiero Bloomberg" tvg-logo="https://1.bp.blogspot.com/-apx9Di-xHJM/Xm6zVXRpOnI/AAAAAAAABmY/fLo91xzoCjEJf2TdmBIqfwyc0Z-1WBjtgCLcBGAsYHQ/s200/42.png" group-title="MEXICO",El Financiero Bloomberg
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26699
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Formula Noticias" tvg-logo="https://1.bp.blogspot.com/-xo2Pq2vsRu8/Xm7X6YXRb0I/AAAAAAAABo0/teIBNoDHrqYbaCEbxX1dSp_QOVvxB5KFACLcBGAsYHQ/s200/51.png" group-title="MEXICO",Formula Noticias
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1361
+
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MEX-Foro TV" tvg-logo="https://1.bp.blogspot.com/-97qblKLDK5A/Xm5m0h85WuI/AAAAAAAABdg/a6PjI8WcZxIT5OOM3M8D7GdQInJ1uy5qgCLcBGAsYHQ/s200/6.png" group-title="MEXICO",Foro TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26979
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Foro TV" tvg-logo="https://1.bp.blogspot.com/-97qblKLDK5A/Xm5m0h85WuI/AAAAAAAABdg/a6PjI8WcZxIT5OOM3M8D7GdQInJ1uy5qgCLcBGAsYHQ/s200/6.png" group-title="MEXICO",Foro TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1348
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-France 24" tvg-logo="https://1.bp.blogspot.com/-OjDmyg2Zr9s/Xm5m1NOO3kI/AAAAAAAABdo/01vk3xJaWuwxw0Uw_Z6OImUrmQpueKYGACLcBGAsYHQ/s200/8.png" group-title="MEXICO",France 24
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26977
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-France 24" tvg-logo="https://1.bp.blogspot.com/-OjDmyg2Zr9s/Xm5m1NOO3kI/AAAAAAAABdo/01vk3xJaWuwxw0Uw_Z6OImUrmQpueKYGACLcBGAsYHQ/s200/8.png" group-title="MEXICO",France 24
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26731
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="MEX-Garage TV" tvg-logo="https://1.bp.blogspot.com/-y283ot09Ihc/Xm7RANtYfNI/AAAAAAAABnM/SRWTKILBpVIs98kbupZmfCTT2IheW8ceACLcBGAsYHQ/s200/46.png" group-title="MEXICO",Garage TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26692
+
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="MEX-Glitz" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png" group-title="MEXICO",Glitz
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26953
+
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="MEX-Glitz" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png" group-title="MEXICO",Glitz
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26724
+
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="MEX-Hola TV" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png" group-title="MEXICO",Hola TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26958
+
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="MEX-Hola TV" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png" group-title="MEXICO",Hola TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26686
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MEX-Imagen TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO",Imagen TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1349
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO",Imagen
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1884
+
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="MEX-Ingenio TV" tvg-logo="https://1.bp.blogspot.com/-XslEa9ODtnk/Xm6mRePc-WI/AAAAAAAABj4/ySQY8kuakmUPogs60eW4wmY0L6MsqrNXgCLcBGAsYHQ/s200/34.png" group-title="MEXICO",Ingenio TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26730
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Ingenio TV" tvg-logo="https://1.bp.blogspot.com/-XslEa9ODtnk/Xm6mRePc-WI/AAAAAAAABj4/ySQY8kuakmUPogs60eW4wmY0L6MsqrNXgCLcBGAsYHQ/s200/34.png" group-title="MEXICO",Ingenio TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1350
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26945
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26677
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1885
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1344
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1345
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Mexiquense" tvg-logo="https://1.bp.blogspot.com/-yaWXv4kbt3s/Xm5mzAfya7I/AAAAAAAABdM/affhQIUdPwo9tJPfEfsSxYCVP0k-xjwrACLcBGAsYHQ/s200/10.png" group-title="MEXICO",Mexiquense
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26718
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Mexiquense" tvg-logo="https://1.bp.blogspot.com/-yaWXv4kbt3s/Xm5mzAfya7I/AAAAAAAABdM/affhQIUdPwo9tJPfEfsSxYCVP0k-xjwrACLcBGAsYHQ/s200/10.png" group-title="MEXICO",Mexiquense
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1351
+
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MEX-Milenio TV" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png" group-title="MEXICO",Milenio TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26981
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Milenio TV" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png" group-title="MEXICO",Milenio TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1352
+
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png" group-title="MEXICO",Multimedios
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26954
+
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Plus" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png" group-title="MEXICO",Multimedios Plus
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26967
+
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Plus" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png" group-title="MEXICO",Multimedios Plus
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26717
+
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MEX-Multimedios Plus" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png" group-title="MEXICO",Multimedios Plus
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1355
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png" group-title="MEXICO",Multimedios
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1354
+
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MEX-Más Chic" tvg-logo="https://1.bp.blogspot.com/-xJZbc0hvFXg/Xm7SE-8HbyI/AAAAAAAABnk/-1fm_mQwbi8H-TzKWjfka0VgbJbbd4naQCLcBGAsYHQ/s200/47.png" group-title="MEXICO",Más Chic
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26688
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Nu9ve" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png" group-title="MEXICO",Nu9ve
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26964
+
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MEX-Nu9ve" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png" group-title="MEXICO",Nu9ve
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=31434
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MEX-Once TV" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="MEXICO",Once TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26968
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-RMS" tvg-logo="https://1.bp.blogspot.com/-zOeQjiwf3Ws/Xm7ZAIzD1II/AAAAAAAABpA/NG0Vae1jK10moDKhd8FjR9NYvUATKdcngCLcBGAsYHQ/s200/52.png" group-title="MEXICO",RMS
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1360
+
+#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="MEX-Sundance" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png" group-title="MEXICO",Sundance
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26976
+
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="MEX-Sundance" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png" group-title="MEXICO",Sundance
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26722
+
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MEX-Telefórmula" tvg-logo="https://1.bp.blogspot.com/-RUU0kvvtPsk/Xm5zycBoQ2I/AAAAAAAABhg/mcwFdLCJi-MVVQt1HK3QiaQtXwxz-751ACLcBGAsYHQ/s200/24.png" group-title="MEXICO",Telefórmula
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26956
+
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MEX-Telefórmula" tvg-logo="https://1.bp.blogspot.com/-RUU0kvvtPsk/Xm5zycBoQ2I/AAAAAAAABhg/mcwFdLCJi-MVVQt1HK3QiaQtXwxz-751ACLcBGAsYHQ/s200/24.png" group-title="MEXICO",Telefórmula
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26684
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Telemundo" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png" group-title="MEXICO",Telemundo
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1362
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa MTY" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",Televisa MTY
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26984
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Puebla" tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png" group-title="MEXICO",Televisa Puebla
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26962
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Puebla" tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png" group-title="MEXICO",Televisa Puebla
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26709
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Puebla" tvg-logo="https://1.bp.blogspot.com/-HxMvNbzeE6U/Xm5wXn6qtoI/AAAAAAAABgg/MjSkMggWOFkXUlEuar-YsNzIDfRbvjq2gCLcBGAsYHQ/s200/20.png" group-title="MEXICO",Televisa Puebla
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1346
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TLN Novelas" tvg-logo="https://1.bp.blogspot.com/-VOrZ2xx2Je0/Xm6rTkHbMbI/AAAAAAAABkk/07Adicg4LC8IaVsyNjXoouJ4VZJdnvSLwCLcBGAsYHQ/s200/36.png" group-title="MEXICO",TLN Novelas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26727
+
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="MEX-Tru TV" tvg-logo="https://1.bp.blogspot.com/-9w16hYV4mk8/Xauke2zKBSI/AAAAAAAAAgA/vylcIByzz6kPcin3nnt4EjN1I_E9DI_SQCLcBGAsYHQ/s200/18.png" group-title="MEXICO",Tru TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26960
+
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="MEX-Tru TV" tvg-logo="https://1.bp.blogspot.com/-9w16hYV4mk8/Xauke2zKBSI/AAAAAAAAAgA/vylcIByzz6kPcin3nnt4EjN1I_E9DI_SQCLcBGAsYHQ/s200/18.png" group-title="MEXICO",Tru TV
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26690
+
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="MEX-TV 4 Guanajuato" tvg-logo="https://1.bp.blogspot.com/-HhMgUg5w7uE/Xm5m0SHm1zI/AAAAAAAABdc/TyVNpHWELl82CGstQay5d5Xdo1bnLemQACLcBGAsYHQ/s200/5.png" group-title="MEXICO",TV 4 Guanajuato
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26980
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Mas" tvg-logo="https://1.bp.blogspot.com/-YYhawNr6ARs/Xm5pxYtMVDI/AAAAAAAABeo/GWFE-QEUHNYwYnQC5W9sVuUS9Gqc6wBPgCLcBGAsYHQ/s200/13.png" group-title="MEXICO",TV Mas
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1367
+
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-name="MEX-Tv Más" tvg-logo="https://1.bp.blogspot.com/-YYhawNr6ARs/Xm5pxYtMVDI/AAAAAAAABeo/GWFE-QEUHNYwYnQC5W9sVuUS9Gqc6wBPgCLcBGAsYHQ/s200/13.png" group-title="MEXICO",Tv Más
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26712
+
+#EXTINF:-1 tvg-id="TVC.mx" tvg-name="MEX-TVC" tvg-logo="https://1.bp.blogspot.com/-BOL52VBf-TU/Xm5tz_NgftI/AAAAAAAABgI/P1eRtJdSPageCZug75EIwQMk7_eemmdQgCLcBGAsYHQ/s200/17.png" group-title="MEXICO",TVC
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26965
+
+#EXTINF:-1 tvg-id="TVC.mx" tvg-name="MEX-TVC" tvg-logo="https://1.bp.blogspot.com/-BOL52VBf-TU/Xm5tz_NgftI/AAAAAAAABgI/P1eRtJdSPageCZug75EIwQMk7_eemmdQgCLcBGAsYHQ/s200/17.png" group-title="MEXICO",TVC
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26735
+
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MEX-TVC Deportes" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png" group-title="MEXICO",TVC Deportes
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26966
+
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MEX-TVC Deportes" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png" group-title="MEXICO",TVC Deportes
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26701
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png" group-title="MEXICO",TVC Deportes
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1363
+
+#EXTINF:-1 tvg-id="TVEIntAmerica.es" tvg-name="MEX-TVE" tvg-logo="https://1.bp.blogspot.com/-pa66J2QImyE/Xm6svftNZ1I/AAAAAAAABkw/_At9cnvAnREyz7eZcf9F7Df3oalp7W-dgCLcBGAsYHQ/s200/37.png" group-title="MEXICO",TVE
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=26721
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Unicable" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png" group-title="MEXICO",Unicable
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1365
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Unicable" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png" group-title="MEXICO",Unicable
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1366
+
+#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="MEX-Wobi TV" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" group-title="MEXICO",Wobi TV
+
+#EXTINF:-1 group-title="eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ESP-La Sexta" tvg-logo="https://1.bp.blogspot.com/-W6Tq2Qy7DkA/XyNeGM80cfI/AAAAAAAAAm4/IYVlaoek-Osk3yphc6WNm5e0lmEjPWonQCLcBGAsYHQ/w200-h200/81%2Blasexta.png" group-title="ESPANA",La Sexta 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54809
+
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ESP-La 1" tvg-logo="https://1.bp.blogspot.com/-IBc7kGK2gnU/XyNeI2OSwUI/AAAAAAAAAnM/M5wcx96FHlUXNziClUMnXpm82fpPEhr1gCLcBGAsYHQ/w200-h200/86%2Bla1.png" group-title="ESPANA",La 1 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54161
+
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ESP-La 2" tvg-logo="https://1.bp.blogspot.com/-YAvVFV8FKSg/XyNeJO2WPnI/AAAAAAAAAnQ/XQJvBROqR2g27PA7JkoSOhJDHE8Of_eOgCLcBGAsYHQ/w200-h200/87%2Bla2.png" group-title="ESPANA",La 2 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54162
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBvf4zM.png" group-title="CANADA",CANADA: Canada One
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ESP-Antena 3" tvg-logo="https://1.bp.blogspot.com/-gMP_0h13zb0/XyNeIeQunnI/AAAAAAAAAnI/xjmCLkyRhzAx0Xt9mG6LkQ4tfb9_MlpKwCLcBGAsYHQ/w200-h200/85%2BAntena3.png" group-title="ESPANA",Antena 3 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54163
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ESP-Antena 3 Internacional" tvg-logo="https://1.bp.blogspot.com/-_SG5c5jiKmI/XyNeHmgz0wI/AAAAAAAAAnE/JCc9IsDbuUQidocx-o4AxZHdAoCIHRXsQCLcBGAsYHQ/w200-h200/84%2BAntena3int.png" group-title="ESPANA",Antena 3 Internacional 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54164
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ESP-Cuatro" tvg-logo="https://1.bp.blogspot.com/-y7d9FdYmTyI/XyNeHIuUayI/AAAAAAAAAnA/5ikoAsDNjxAbem4oLAvRUjp_ZKIgiIXlwCLcBGAsYHQ/w200-h200/83%2BCuatrohd.png" group-title="ESPANA",Cuatro 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54165
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ESP-Telecinco" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png" group-title="ESPANA",Telecinco 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=54166
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PERU",Gol Peru 
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=53794
+
+#EXTINF:-1 tvg-logo="http://static.ebs.co.kr/www/common/img/global/thum_default_tv2.jpg" group-title="SOUTH KOREA",SOUTH KOREA: EBS 2
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" group-title="SOUTH KOREA",SOUTH KOREA: EBS English
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02mpUP2.jpg" group-title="RUSSIA",RUSSIA: PUBLIKA TV HD
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=livebeta.publika.md/LIVE/P/1500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="REINO UNIDO",REINO UNIDO: Kool London Radio
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="REINO UNIDO",REINO UNIDO: London Live
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-id="935" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="REINO UNIDO",REINO UNIDO: Flow Sports
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVnHduC.png" group-title="PAISES BAJOS",PAISES BAJOS: GO TV
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVnHduC.png" group-title="PAISES BAJOS",PAISES BAJOS: HK13 TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",NOTICIAS: Bloomberg TV Australia HD
+http://tvpremiumhd.club/lista-gratuita/213022/on/iptv.php?id=liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live
+
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Classic
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Ibiza
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSICA",MUSICA: DJIng Ibiza HD
+http://tvpremiumhd.club/lista-gratuita/213022/on/iptv.php?id=www.djing.com/tv/ibiza
+
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Karaoke
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing TV
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Underground
+http://tvpremiumhd.club/lista-gratuita/213022/on/live.php?id=djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TEN - NEW
+http://f.ok2.se:8000/victor1/victor123/9165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", XTSY - (NEW)
+http://f.ok2.se:8000/victor1/victor123/9164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TINY4K
+http://f.ok2.se:8000/victor1/victor123/8889
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANDY - NEW
+http://f.ok2.se:8000/victor1/victor123/90820
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", O-LA-LA - NEW
+http://f.ok2.se:8000/victor1/victor123/90821
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", OH-AH - NEW
+http://f.ok2.se:8000/victor1/victor123/90823
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WANZ
+http://f.ok2.se:8000/victor1/victor123/6611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TUSHY
+http://f.ok2.se:8000/victor1/victor123/6615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LEGAL PORNO
+http://f.ok2.se:8000/victor1/victor123/6573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PENTHOUSE
+http://f.ok2.se:8000/victor1/victor123/71118
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",Dorcel
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=5
+
+#EXTINF:-1 tvg-id="" tvg-name="Hustler" tvg-logo="https://1.bp.blogspot.com/-GTHH8-4x6kc/XxS4WKWLyNI/AAAAAAAACTc/MbJ5-8aOZxwiZ96pCPvTGrxiL4VEUNMNACLcBGAsYHQ/s200/8.png" group-title="ADULTOS",Hustler
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=3
+
+#EXTINF:-1 tvg-id="" tvg-name="Penthose Gold" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",Penthose Gold
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=5011
+
+#EXTINF:-1 tvg-id="" tvg-name="Pinko TV 13" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",Pinko TV 13
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1616
+
+#EXTINF:-1 tvg-id="" tvg-name="Play Boy 12" tvg-logo="https://1.bp.blogspot.com/-xqV58B1HXCw/XxS1LuIRLPI/AAAAAAAACTI/u4d6kPUhxlwQbwL5GodwI-OQoMrNy9FPgCLcBGAsYHQ/s200/6.png" group-title="ADULTOS",Play Boy 12
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1622
+
+#EXTINF:-1 tvg-id="" tvg-name="Private TV HD" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",Private TV HD
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=8
+
+#EXTINF:-1 tvg-id="" tvg-name="RedLight" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",RedLight
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1623
+
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme 1" tvg-logo="https://1.bp.blogspot.com/-6mdA2ZgbEGs/XpKHIV05MqI/AAAAAAAABqw/T_iY3j0f5w0dw6WOsWjdmZBJneJ4kctDgCLcBGAsYHQ/s200/4.png" group-title="ADULTOS",Sextreme 1
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1804
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz1" tvg-logo="https://1.bp.blogspot.com/-U6vTUjQ9gnc/XxS2BFICpfI/AAAAAAAACTQ/qhOrbwpL9Tgf58qJyESGTO34s2f6FXauwCLcBGAsYHQ/s200/7.png" group-title="ADULTOS",Starz1
+http://tvpremiumhd.club/lista-gratuita/213022/tv/live.php?id=1614
+
+#EXTINF:-1 tvg-id="" tvg-name="Vivid Red" tvg-logo="https://1.bp.blogspot.com/-0YQgNd9LX48/XpKHH9ua6CI/AAAAAAAABqo/uAGDzGGltu43t-6P91_P1HLDnMpZCBeWwCLcBGAsYHQ/s200/1.png" group-title="ADULTOS",Vivid Red
