@@ -4,30 +4,63 @@
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="MX037:ESPN 1" tvg-logo="" group-title="Mexico",MX037:ESPN 1
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51421
-#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX038:ESPN 2 HD" tvg-logo="" group-title="Mexico",MX038:ESPN 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51420
-#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX039:ESPN 3 HD" tvg-logo="" group-title="Mexico",MX039:ESPN 3 HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51419
-#EXTINF:-1 tvg-id="" tvg-name="LA005:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA005UFCNetwork.png" group-title="Latino",LA005:UFC Network
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58052
 #EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58012
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX038:ESPN 2 HD" tvg-logo="" group-title="Mexico",MX038:ESPN 2 HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51420
 #EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58011
 #EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58010
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX039:ESPN 3 HD" tvg-logo="" group-title="Mexico",MX039:ESPN 3 HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51419
+#EXTINF:-1 tvg-id="" tvg-name="LA005:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA005UFCNetwork.png" group-title="Latino",LA005:UFC Network
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58052
+#EXTINF:-1 tvg-id="" tvg-name="LA304:ESPN PLUS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA304ESPNPLUSHD.png" group-title="Latino",LA304:ESPN PLUS HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58997
 
+#EXTINF:-1 tvg-id="" tvg-name="LA651:TIGO SPORT " tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA651:TIGO SPORT 
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58650
+
+#EXTINF:-1 tvg-id="" tvg-name="LA606:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA606:TUDN
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58695
+#EXTINF:-1 tvg-id="" tvg-name="CO004:WIN SPORT+" tvg-logo="" group-title="Colombia",CO004:WIN SPORT+
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51316
 #EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57999
-#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSpo#EXTINF:-1 tvg-id="" tvg-name="CO013:A3Series" tvg-logo="" group-title="Colombia",CO013:A3Series
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51307rts2.png" group-title="Latino",LA059:Fox Sports 2
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57998
 #EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57997
 #EXTINF:-1 tvg-id="" tvg-name="ARG049:FOX SPORTS HD" tvg-logo="" group-title="Argentina",ARG049:FOX SPORTS HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/49703
-#EXTINF:-1 tvg-id="" tvg-name="ARG050:FOX SPORTS Premium HD" tvg-logo="" group-title="Argentina",ARG050:FOX SPORTS Premium HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/49702
 
+#EXTINF:-1 tvg-id="" tvg-name="CO028:DirectTV Sports 1" tvg-logo="" group-title="Colombia",CO028:DirectTV Sports 1
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51292
+
+#EXTINF:-1 tvg-id="" tvg-name="MX075:Azteca Deportes" tvg-logo="" group-title="Mexico",MX075:Azteca Deportes
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51383
+#EXTINF:-1 ,TyC Sport HD
+http://daletv.xyz:25461/Ronni/Ronni/117475
+
+#EXTINF:-1 ,DirectTv SPORT HD#EXTINF:-1 ,Tv Publica
+http://planettvweb.com:8091/German/German/11872
+
+#EXTINF:-1 ,Caracol Tv
+http://planettvweb.com:8091/German/German/16816
+
+http://daletv.xyz:25461/Ronni/Ronni/117526
+#EXTINF:-1 ,SKY Sport
+http://planettvweb.com:8091/German/German/11913
+#EXTINF:-1 ,CDF HD
+http://daletv.xyz:25461/Ronni/Ronni/117502
+
+#EXTINF:-1 ,beIN Sports HD
+http://daletv.xyz:25461/Ronni/Ronni/119552
+
+#EXTINF:-1 ,DirectTV Chile
+http://daletv.xyz:25461/Ronni/Ronni/117514
 #EXTINF:0,NFL Channel
 #EXTGRP:Without category
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -47,8 +80,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c
 #EXTGRP:Without category
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1,|AR| BEIN SPORTS 5 HD
-http://rv.therevenge.co:80/307231215061/307231215061/78613
+#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58034
 
 #EXTINF:-1,|AR| BEIN SPORTS 7 HD
 http://rv.therevenge.co:80/307231215061/307231215061/78611
@@ -56,8 +89,7 @@ http://rv.therevenge.co:80/307231215061/307231215061/78611
 #EXTINF:-1,|AR| BEIN SPORTS 12 HD EN
 http://rv.therevenge.co:80/307231215061/307231215061/78606
 
-#EXTINF:-1,|AR| BEIN SPORTS 16 HD
-http://rv.therevenge.co:80/307231215061/307231215061/78602
+
 #EXTINF:-1,|AR| BEIN SPORTS NBA HD
 http://rv.therevenge.co:80/307231215061/307231215061/78619
 
@@ -77,8 +109,7 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52424
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52333
 #EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES275:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275EUROSPORT2.png" group-title="ES Deportes",ES275:EUROSPORT 2
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52332
-#EXTINF:-1 tvg-id="" tvg-name="ES089:La Liga BAR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089LaLigaBARHD.png" group-title="ES Deportes",ES089:La Liga BAR HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29303
+
 #EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES133:M. DEPORTES 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:M. DEPORTES 1
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29259
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:#VolverEsGanar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:#VolverEsGanar
@@ -97,16 +128,12 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29220
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29218
 #EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:LaLiga TV Bar
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2553
-#EXTINF:-1 tvg-id="m..deportes.2.es" tvg-name="ES014:M Deportes 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Deportes",ES014:M Deportes 2
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2590
-#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES015:M Deportes 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Deportes",ES015:M Deportes 1
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2589
+
 #EXTINF:-1 tvg-id="m..liga.campeones.1.es" tvg-name="ES010:M Liga de Campeones" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Deportes",ES010:M Liga de Campeones
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2594
 #EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:M Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="ES Deportes",ES018:M Golf
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2586
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES020:Toros" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="ES Deportes",ES020:Toros
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2584
+
 #EXTINF:-1 tvg-id="movistar.formula.1.es" tvg-name="ES026:M Formula 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="ES Deportes",ES026:M Formula 1
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2578
 #EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:M MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="ES Deportes",ES027:M MotoGP
@@ -123,18 +150,10 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29313
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29308
 #EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M.Liga de Campeones" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Deportes",ES085:M.Liga de Campeones
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29307
-#EXTINF:-1 tvg-id="m..deportes.1.es" tvg-name="ES086:Canal  DEPORTES HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Deportes",ES086:Canal  DEPORTES HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29306
-#EXTINF:-1 tvg-id="m..deportes.2.es" tvg-name="ES087:Canal  DEPORTES 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Deportes",ES087:Canal  DEPORTES 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29305
-#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="ES088:Canal DCINE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Cine",ES088:Canal DCINE HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29304
+
 #EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Deportes",ES092:M. LaLiga HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29300
-#EXTINF:-1 tvg-id="m..laliga.4.es" tvg-name="ES095:M. LaLiga 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Deportes",ES095:M. LaLiga 4
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29297
-#EXTINF:-1 tvg-id="m..laliga.5.es" tvg-name="ES096:M. LaLiga 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Deportes",ES096:M. LaLiga 5
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29296
+
 #EXTINF:-1 tvg-id="m..laliga.es" tvg-name="ES121:MOVISTAR LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121MOVISTAR LaLiga.png" group-title="ES Deportes",ES121:MOVISTAR LaLiga HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29271
 #EXTINF:-1 tvg-id="m..laliga.uhd.es" tvg-name="ES122:MOVISTAR LaLiga FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:MOVISTAR LaLiga FHD
@@ -167,22 +186,7 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52422
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29226
 #EXTINF:-1 tvg-id="m..liga.campeones.5.es" tvg-name="ES186:Movistar Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Deportes",ES186:Movistar Liga de Campeones 5
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52421
-#EXTINF:-1 tvg-id="m..formula.1.uhd.es" tvg-name="ES191:M FORMULA 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Deportes",ES191:M FORMULA 1 HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52416
-#EXTINF:-1 tvg-id="m..formula.1.uhd.es" tvg-name="ES193:M FUTBOL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Deportes",ES193:M FUTBOL HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52414
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES231:Toros Tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png" group-title="ES Deportes",ES231:Toros Tv
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52376
-#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES239:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES239MovistarMotoGP.png" group-title="ES Deportes",ES239:Movistar MotoGP
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52368
-#EXTINF:-1 tvg-id="movistar.el.partidazo.es" tvg-name="ES241:Movistar Partidazo HD (event only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES241MovistarPartidazoHD(eventonly).png" group-title="ES Deportes",ES241:Movistar Partidazo HD (event only)
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52366
-#EXTINF:-1 tvg-id="eurosport.es" tvg-name="ES250:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES250EUROSPORT.png" group-title="ES Deportes",ES250:EUROSPORT
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52357
-#EXTINF:-1 tvg-id="movistar.deportes.es" tvg-name="ES251:Canal  Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png" group-title="ES Deportes",ES251:Canal  Deportes
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52356
-#EXTINF:-1 tvg-id="bein.sports.es" tvg-name="ES257:BeinSport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png" group-title="ES Deportes",ES257:BeinSport HD
-http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52350
+
 #EXTINF:-1 tvg-id="movistar.laliga.es" tvg-name="ES258:MOVISTAR LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258MOVISTAR LaLiga.png" group-title="ES Deportes",ES258:MOVISTAR LaLiga HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52349
 #EXTINF:-1 tvg-id="movistar.formula.1.es" tvg-name="ES262:CANAL Formula One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES262CANALFormulaOne.png" group-title="ES Cine",ES262:CANAL Formula One
@@ -202,6 +206,11 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58048
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58047
 #EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58046
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX001:ADN 40" tvg-logo="" group-title="Mexico",MX001:ADN 40
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51457
+#EXTINF:-1 tvg-id="xhatz.nu9ve.me.mx" tvg-name="MX002:NU9VE TV" tvg-logo="" group-title="Mexico",MX002:NU9VE TV
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51456
 
 #EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58043
@@ -264,8 +273,13 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTGRP:Without category
 https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
 
+#EXTINF:-1 ,Tv Publica
+http://planettvweb.com:8091/German/German/11872
 
-
+#EXTINF:-1 ,Caracol Tv
+http://planettvweb.com:8091/German/German/16816
+#EXTINF:-1 ,Chilevisión
+http://planettvweb.com:8091/German/German/14272
 
 ==============================================================================
 
@@ -281,7 +295,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58009
 #EXTINF:-1 tvg-id="" tvg-name="LA049:Film Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png" group-title="Latino",LA049:Film Zone
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58008
-
+#EXTINF:-1 tvg-id="fox.premium.action.east.mx" tvg-name="MX049:Fox Premium Action" tvg-logo="" group-title="Mexico",MX049:Fox Premium Action
 #EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58006
 #EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
@@ -296,7 +310,8 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58002
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58001
 #EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58000
-
+#EXTINF:-1 tvg-id="fox.premium.movies.east.mx" tvg-name="MX053:Fox Premium Movies" tvg-logo="" group-title="Mexico",MX053:Fox Premium Movies
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51405
 #EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57993
 #EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
@@ -333,6 +348,29 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51396
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="MX063:GOLDEN HD" tvg-logo="" group-title="Mexico",MX063:GOLDEN HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51395
 
+#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX045:FILM & ART HD" tvg-logo="" group-title="Mexico",MX045:FILM & ART HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51413
+
+#EXTINF:-1 tvg-id="" tvg-name="LA652:ULTRA Film" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA652:ULTRA Film
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58649
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:TCM ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Ent",ES067:TCM ES
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2537
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES222:Paramount Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222ParamountChannel.png" group-title="ES Ent",ES222:Paramount Channel
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52385
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES065:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Ent",ES065:Paramount
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2539
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:SUNDANCE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Ent",ES167:SUNDANCE FHD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29225
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Ent",ES047:Hollywood
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2557
+#EXTINF:-1 tvg-id="" tvg-name="ARG025:CINE ARGENTINA" tvg-logo="" group-title="Argentina",ARG025:CINE ARGENTINA
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/49727
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG001:MAX" tvg-logo="" group-title="Argentina",ARG001:MAX
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/49751
+#EXTINF:-1 tvg-id="" tvg-name="ARG002:CINEMAX" tvg-logo="" group-title="Argentina",ARG002:CINEMAX
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/49750
 ===========================================================================================
 
 
@@ -352,7 +390,10 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58017
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58016
 #EXTINF:-1 tvg-id="" tvg-name="LA042:E! LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA042E!LA.png" group-title="Latino",LA042:E! LA
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58015
-
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX047:FOX HD" tvg-logo="" group-title="Mexico",MX047:FOX HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51411
+#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX048:Fox Life" tvg-logo="" group-title="Mexico",MX048:Fox Life
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51410
 #EXTINF:-1 tvg-id="" tvg-name="LA061:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino",LA061:FX
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57996
 #EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
@@ -360,7 +401,8 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57995
 #EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57994
 #EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-
-
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent",ES070:TNT HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2534
 #EXTINF:-1 tvg-id="tnt.es" tvg-name="ES070:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent",ES070:TNT HD
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2534
 #EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:AXN ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="ES Ent",ES006:AXN ES
@@ -387,6 +429,22 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/51394
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
 http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57982
 
+#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58030
+#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58029
+#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58028
+#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.png" group-title="Latino",LA030:Discovery ID LA
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58027
+#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58025
+#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58024
+#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58023
+#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/58022
 #EXTINF:0,Smash Food
 #EXTGRP:Without category
 http://a3.smashmalta.com:82/live/smash/smash/16.ts
@@ -420,7 +478,14 @@ http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57966
 http://rv.therevenge.co:80/307231215061/307231215061/87049
 #EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57978
-
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Musica",ES147:Classica
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29245
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES055:MTV ES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="ES Musica",ES055:MTV ES
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/2549
+#EXTINF:-1 tvg-id="mtv.espana.es" tvg-name="ES235:MTV espana" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES235MTVespana.png" group-title="ES Musica",ES235:MTV espana
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/52372
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES076:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Musica",ES076:MEZZO LIVE HD
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29316
 
 #EXTINF:-1 tvg-id="" tvg-name="LA093:Tele Hit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino",LA093:Tele Hit
 http://chu2.coolmyvip.club:8880/iptvtest038/56760764/57964
@@ -434,6 +499,9 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:0,Telemusica www.achoAPPS.com
 #EXTGRP:unsorted
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:-1 tvg-id="vh1.es" tvg-name="ES111:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Ent",ES111:VH1
+http://chu2.coolmyvip.club:8880/iptvtest038/56760764/29281
 
 #EXTINF:0,M2O TV
 #EXTGRP:Without category
