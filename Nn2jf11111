@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: WIN SPORTS SD
+http://bldtv.vip:80/live/samy/102030/65833.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: WARNER HD
+http://bldtv.vip:80/live/samy/102030/65834.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: UNIVISION NETWORK SD
+http://bldtv.vip:80/live/samy/102030/65819.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: TL NOVELA P5 MX SD
+http://bldtv.vip:80/live/samy/102030/65800.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: TELEMUNDO SD
+http://bldtv.vip:80/live/samy/102030/65853.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: TELEANTIOQUIA SD
+http://bldtv.vip:80/live/samy/102030/65855.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: RCN TELENOVELAS SD
+http://bldtv.vip:80/live/samy/102030/65864.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: NATGEO KIDS HD
+http://bldtv.vip:80/live/samy/102030/65873.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: HTV SD
+http://bldtv.vip:80/live/samy/102030/65889.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: HOLA TV HD
+http://bldtv.vip:80/live/samy/102030/65890.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: HBO 2 HD
+http://bldtv.vip:80/live/samy/102030/65896.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: FOX CLASSICS HD
+http://bldtv.vip:80/live/samy/102030/65925.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: WARNER HD
+http://bldtv.vip:80/live/samy/102030/65834.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: CARACOL SD
+http://bldtv.vip:80/live/samy/102030/65969.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: BOXNATION HD P5 MX SD
+http://bldtv.vip:80/live/samy/102030/65806.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", LAT: AE MUNDO HD
+http://bldtv.vip:80/live/samy/102030/65987.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: TEN
+http://bldtv.vip:80/live/samy/102030/174167.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: TCM
+http://bldtv.vip:80/live/samy/102030/174163.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: ODISEA SD
+http://bldtv.vip:80/live/samy/102030/174157.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: NEOX
+http://bldtv.vip:80/live/samy/102030/174153.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: MEZZO
+http://bldtv.vip:80/live/samy/102030/174148.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: MEGA
+http://bldtv.vip:80/live/samy/102030/174147.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: AXN WHITE SD
+http://bldtv.vip:80/live/samy/102030/174094.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ES: AMC SD
+http://bldtv.vip:80/live/samy/102030/174089.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", COL: RCN SD
+http://bldtv.vip:80/live/samy/102030/66087.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", COL: CARACOL HD
+http://bldtv.vip:80/live/samy/102030/66081.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", COL: CARACOL FHD
+http://bldtv.vip:80/live/samy/102030/66084.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", CHI: CHILEVISION SD
+http://bldtv.vip:80/live/samy/102030/66043.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: TV PÚBLICA SD
+http://bldtv.vip:80/live/samy/102030/65990.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: TELEFE HD
+http://bldtv.vip:80/live/samy/102030/66008.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: EL TRECE SD
+http://bldtv.vip:80/live/samy/102030/66017.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: AMERICA TV SD
+http://bldtv.vip:80/live/samy/102030/66023.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: AMERICA TV HD
+http://bldtv.vip:80/live/samy/102030/66036.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="habla ispana", ARG: A24 SD
+http://bldtv.vip:80/live/samy/102030/66000.m3u8
+
+
