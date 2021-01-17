@@ -1,0 +1,117 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_1
+https://teleclub.xyz/tele/canal?tele=AFIZZIONADOS_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_2
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_3
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_PLUS_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_4
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_2
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_3
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_PLUS_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_4
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_17
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORTPLUS_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_18
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_19
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT2_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_20
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORTPLUS_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_22
+https://teleclub.xyz/tele/canal?tele=FOXSPORTS_PREMIUM&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_26
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_27
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_28
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_29
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_30
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_31
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_35
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_MEX_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_36
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_MEX_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_37
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_MEX_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_38
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_39
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_40
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_45
+https://teleclub.xyz/tele/canal?tele=ESPN_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_46
+https://teleclub.xyz/tele/canal?tele=ESPN2_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_47
+https://teleclub.xyz/tele/canal?tele=ESPN3_LAT_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_48
+https://teleclub.xyz/tele/canal?tele=ESPN_LAT_EXTRA_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_49
+https://teleclub.xyz/tele/canal?tele=ESPN_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_50
+https://teleclub.xyz/tele/canal?tele=ESPN2_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_51
+https://teleclub.xyz/tele/canal?tele=ESPN3_LAT_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_56
+https://teleclub.xyz/tele/canal?tele=ESPN_MEX_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_57
+https://teleclub.xyz/tele/canal?tele=ESPN2_MEX_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_59
+https://teleclub.xyz/tele/canal?tele=ESPN_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_60
+https://teleclub.xyz/tele/canal?tele=ESPN2_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_61
+https://teleclub.xyz/tele/canal?tele=ESPN3_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Winsport_65
+https://teleclub.xyz/tele/canal?tv=CLAROSPORT&format=.m3u8
+
+
