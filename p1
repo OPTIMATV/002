@@ -1,0 +1,332 @@
+#EXTM3U
+
+
+#EXTINF:0,MLS TV
+#EXTGRP:00 - Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true&PlaylistM3UCL
+#EXTINF:-1,RMC 1 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/4949
+#EXTINF:-1,RMC 2 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/4950
+#EXTINF:-1,CANAL  SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/2397
+#EXTINF:-1,BEINSPORT1FR
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/544
+#EXTINF:-1,M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38437
+#EXTINF:-1,M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38440
+#EXTINF:-1,M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/3844
+#EXTINF:-1,TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38450
+#EXTINF:-1,Movistar+ F1 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38453
+#EXTINF:-1,EUROSPORT 1 HD France
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38461
+#EXTINF:-1,Eurosport 2  France
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38462
+#EXTINF:-1,EUROSPORT 1 UK
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38655
+#EXTINF:-1,EUROSPORT 2 UK
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38656
+#EXTINF:-1,BT Sports 1 | HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38642
+#EXTINF:-1,BT Sports 2 | HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38643
+#EXTINF:-1,BT Sports 3 | HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38644
+#EXTINF:-1,KY SPORT FOOTBALL
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38648
+#EXTINF:-1,KY SPORT F1
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38649
+#EXTINF:-1,KY SPORT MAIN EVENT
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38650
+#EXTINF:-1,KY SPORT PREMIER LEAGUE
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38652
+#EXTINF:-1,SKY SPORT AUSTRIA 1
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/64360
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/64361
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/64362
+
+
+
+#EXTINF:0,JALISCO TV
+#EXTGRP:00 - Argentina
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ADN MÉXICO
+#EXTGRP:00 - Argentina
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10 Chetumal
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,Multimedios Monterrey
+#EXTGRP:unsorted
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, Canal 4 Monclova
+#EXTGRP:Without category
+http://162.241.190.126:1935/live/canal4/playlist.m3u8?TVFLIXHD
+
+
+#EXTINF:0,Deutsche Welle Latino
+#EXTGRP:unsorted
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+
+
+#EXTINF:-1,LA 2
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38379
+#EXTINF:-1,ANTENA3 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38382
+#EXTINF:-1,CUATRO HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38384
+#EXTINF:-1,TELECINCO HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38386
+#EXTINF:-1,LA SEXTA HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38388
+#EXTINF:0,7TV Murcia
+#EXTGRP:unsorted
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:0,COMEDIA MADE IN SPAIN
+#EXTGRP:00 - Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true&PlaylistM3UCL
+
+
+#EXTINF:-1,FDF
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38415
+#EXTINF:-1,NEOX
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38416
+#EXTINF:0,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL", NHK Japon
+#EXTGRP:INTERNACIONAL
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+
+#EXTINF:-1,BBC 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38561
+#EXTINF:-1,BBC 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38562
+#EXTINF:-1,BBC 4 HD / CBEEBIES HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38563
+#EXTINF:-1,BBC NEWS HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38564
+#EXTINF:-1,BBC ONE SCOTTLAND HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38565
+#EXTINF:-1,BBC ONE WALES HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38566
+#EXTINF:-1,CHANNEL 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38610
+#EXTINF:-1,CHANNEL 5 FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38611
+#EXTINF:-1,ITV 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38658
+#EXTINF:-1,ITV 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38659
+#EXTINF:-1,ITV 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38660
+#EXTINF:-1,ITV 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38661
+
+#EXTINF:0,CNN
+#EXTGRP:00 - Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&PlaylistM3UCL
+#EXTINF:0,TV FLORIDA URUGUAY
+#EXTGRP:00 - Argentina
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0, TV5 MONDE 
+#EXTGRP:Without category
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?TVFLIXHD
+
+#EXTINF:0,EL TRECE ARGENTINA
+#EXTGRP:00 - Argentina
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0,NEO TV DIGITAL
+#EXTGRP:00 - Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:0,CANAL 9 TELEVIDA
+#EXTGRP:00 - Argentina
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TELESUR
+#EXTGRP:00 - Argentina
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CANAL 7 SANTIAGO DEL ESTERO
+#EXTGRP:00 - Argentina
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CANAL 3 PLUS TV
+#EXTGRP:00 - Argentina
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RETRO TV
+#EXTGRP:00 - Argentina
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_3/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0,WOW TV
+#EXTGRP:00 - Argentina
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Extrema TV
+#EXTGRP:unsorted
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,C+ SERIES
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38390
+#EXTINF:-1,MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38392
+#EXTINF:-1,M. SERIES HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38393
+
+
+#EXTINF:-1,FOX HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38397
+#EXTINF:-1,FOX LIFE HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38399
+#EXTINF:-1,AXN WHITE
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38401
+#EXTINF:-1,COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38405
+#EXTINF:-1,CALLE 13 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38408
+#EXTINF:-1,COSMO
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38409
+#EXTINF:-1,SYFY
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38413
+#EXTINF:-1,SYFY HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38602
+#EXTINF:-1,FILM 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38604
+
+#EXTINF:-1,C+ DCINE HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38430
+#EXTINF:0,Paramount + presenta
+#EXTGRP:00 - Argentina
+https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd&PlaylistM3UCL
+#EXTINF:0,CINE DRAMA
+#EXTGRP:00 - Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true&PlaylistM3UCL
+#EXTINF:0, Telemax
+#EXTGRP:Without category
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?TVFLIXHD?iptvgratis?chile.m3u8?TVFLIXHD
+#EXTINF:-1,AMC HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38412
+#EXTINF:-1,M.ESTRENOS HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38422
+#EXTINF:-1,Movistar Cine Doc & Roll HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38423
+#EXTINF:-1,M.COMEDIA HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38427
+#EXTINF:-1,HOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38432
+#EXTINF:-1,PARAMOUNT
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38434
+#EXTINF:-1,KY CINEMA ACTION 
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38585
+#EXTINF:-1,KY ATLANTIC HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38586
+#EXTINF:-1,KY CINEMA COMEDY FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38588
+#EXTINF:-1,KY CINEMA DISNEY FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38589
+#EXTINF:-1,KY CINEMA DRAMA & ROMANCE FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38590
+#EXTINF:-1,KY CINEMA PREMIER FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38594
+#EXTINF:-1,KY CINEMA SCI-FI FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38595
+#EXTINF:-1,KY CINEMA THRILLER FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38597
+#EXTINF:-1,HORROR CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38680
+
+#EXTINF:-1,NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38475
+#EXTINF:-1,NG WILD HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38477
+#EXTINF:-1,HISTORIA
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38478
+#EXTINF:-1,DMAX
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38480
+#EXTINF:-1,VIAJAR HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38484
+#EXTINF:-1,CANAL COCINA
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38487
+#EXTINF:0,HOLA TV
+#EXTGRP:00 - Argentina
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
+
+#EXTINF:0,Fashion
+#EXTGRP:unsorted
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:0, HD Fashion
+#EXTGRP:Without category
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?TVFLIXHD?xtreamiptv.m3u8?TVFLIXHD
+#EXTINF:-1,TLC HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38632
+#EXTINF:-1,TRAVEL HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38633
+
+#EXTINF:0,TEEN START
+#EXTGRP:00 - Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true&PlaylistM3UCL
+
+
+#EXTINF:-1,C STAR FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/2460
+#EXTINF:-1,M6 MUSIC FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/2378
+#EXTINF:-1,MTV España
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38514
+#EXTINF:-1,MTV  FR  FHD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/2383
+#EXTINF:-1,MTV CLASSIC
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38620
+
+#EXTINF:-1,MTV HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38622
+#EXTINF:-1,MTV HITS
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38623
+#EXTINF:-1,MTV LIVE HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38624
+#EXTINF:-1,MTV MUSIC UK
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38625
+#EXTINF:-1,MTV ONE
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38626
+#EXTINF:-1,MTV ROCKS
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38627
+#EXTINF:0, MTV Dance
+#EXTGRP:Without category
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?TVFLIXHD
+#EXTINF:0, SheepMix
+#EXTGRP:Without category
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:0,M2O TV
+#EXTGRP:unsorted
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;
+#EXTINF:-1,MEZZO
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38515
+#EXTINF:-1,MORE 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38616
+#EXTINF:-1,JUKEBOX
+http://dimapro.cz:8080/00:1A:79:16:FB:4F/ziajdjjfdifjd64646/38908
+#EXTINF:0,RETRO Music
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV 2
+#EXTGRP:00 - Argentina
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Radio Capital TV
+#EXTGRP:unsorted
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+#EXTINF:0,Capital TV 
+#EXTGRP:Without category
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?TVFLIXHD
+#EXTINF:0,MELODY CHANNEL
+#EXTGRP:00 - Argentina
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
+
+#EXTINF:0,Miami TV
+#EXTGRP:XXX
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:0,Miami TV Jenny Live
+#EXTGRP:XXX
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:0,Miami TV Latino
+#EXTGRP:XXX
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
